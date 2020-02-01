@@ -8,7 +8,7 @@
 
 3.[Netlify Drop](https://app.netlify.com/drop)
 
-4. [Assets](https://www7.zippyshare.com/v/K5viYsMM/file.html)
+4.[Assets](https://www7.zippyshare.com/v/K5viYsMM/file.html)
 
 ## Code Examples:
 
