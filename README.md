@@ -44,3 +44,24 @@ Main:
   </p>
 </main>
 ```
+
+Footer:
+
+```js
+<footer class="footer">
+  <nav>
+    <a href="https://www.facebook.com/122Suraj" target="_blank">
+      <img src="assets/media/fb.png" alt="Facebook" />
+    </a>
+    <a href="https://twitter.com/suraj_122" target="_blank">
+      <img src="assets/media/twitter.png" alt="Twitter" />
+    </a>
+    <a href="https://www.instagram.com/suraj_122/" target="_blank">
+      <img src="assets/media/insta.png" alt="Instagram" />
+    </a>
+    <a href="https://www.linkedin.com/in/suraj122/" target="_blank">
+      <img src="assets/media/linkedin.png" alt="Instagram" />
+    </a>
+  </nav>
+</footer>
+```
